@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.next-diagnostic/
+.next-dev/
+.next-production/
+out/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+
+.next-dev-webpack/

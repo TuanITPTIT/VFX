@@ -1,0 +1,12 @@
+{
+  "name": "web-phim",
+  "private": true,
+  "scripts": {
+    "setup": "npm --prefix frontend ci",
+    "dev": "npm --prefix frontend run dev --",
+    "build": "npm --prefix frontend run build --",
+    "start": "npm --prefix frontend run start --",
+    "preview": "npm --prefix frontend run preview --",
+    "typecheck": "npm --prefix frontend run typecheck --"
+  }
+}
